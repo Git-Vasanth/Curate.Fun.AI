@@ -1,7 +1,7 @@
 # Curate.Fun.AI
 The Agentic Rag Chatbot Code
 
-Linkedin Profile : 
+** Code will be Uploaded in Few Days**
 
 
 
