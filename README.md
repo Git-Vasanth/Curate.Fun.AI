@@ -1,10 +1,7 @@
 # Curate.Fun.AI
 The Agentic Rag Chatbot Code
 
-** Code will be Uploaded in Few Days**
-
-
-
+**Code will be Uploaded in Few Days & Watch Demo**
 
 ## Demo Live
 
